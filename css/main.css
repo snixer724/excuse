@@ -1,0 +1,22 @@
+body {
+  font-family: Georgia, "Times New Roman", serif;
+  background-color: #eae7e2;
+}
+
+.container-fluid {
+  border-top: 10em solid #000;
+}
+
+p {
+  font-size: 3em;
+  display: inline-block;
+}
+
+.random-text {
+  font-size: 2em;
+}
+
+button:active {
+  background-color: #5574DB;
+  color: #DB5555;
+}
