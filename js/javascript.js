@@ -38,7 +38,7 @@ var subject = [
   'my grandpa ',
   'Guy Fieri ',
   'Hillary Clinton ',
-  'Obama  ',
+  'Obama ',
   'Ted Cruz ',
   'George Lopez ',
   'Erich Doubek ',
