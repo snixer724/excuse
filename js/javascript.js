@@ -1,4 +1,5 @@
 var apology = [
+' Forgive me Christina',
   'Forgive me...',
   'SO sorry',
   'My bad,',
@@ -18,10 +19,10 @@ var apology = [
   'Hey,',
   'Rats!',
   'You know what?'
-
 ];
 
 var subject = [
+' Crouton Johnson has to be the',
   'my dog ',
   'my cat ',
   'my mom ',
@@ -95,13 +96,10 @@ var subject = [
   'my least favorite child',
   'my clone',
   'my doctor'
-
-
-
-
 ];
 
 var reason = [
+' reason why all of the people die in Endgame.',
   ' lost their car keys in my dog’s ass.',
   ' broke both their kneecaps.',
   ' has depression.',
@@ -183,7 +181,6 @@ var reason = [
   ' and I are fighting over whether or not a hot dog is a sandwich.',
   ' and I decided we want to  see other people.',
   ' is having boy troubles again.',
-  ''
 
 ];
 
